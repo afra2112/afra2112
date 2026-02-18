@@ -33,7 +33,7 @@ I care about architecture, clean code, and understanding how things work under t
 
 ## 📂 Repository Naming Convention
 
-I follow a structured naming pattern for repositories: [type]-[domain]-[focus]
+I follow a structured naming pattern for repositories: `[project-name]-[domain]-[type]`
 
 
 ### Types:
@@ -43,10 +43,10 @@ I follow a structured naming pattern for repositories: [type]-[domain]-[focus]
 - `template-*` → reusable architecture bases
 
 ### Examples:
-- `practice-hexagonal-architecture`
-- `practice-spring-security`
-- `college-terranova-api`
-- `template-spring-clean-architecture`
+- `first-project-hexagonal-architecture-practice`
+- `second-project-spring-security-practice`
+- `finance-application-personal`
+- `api-foundation-spring-boot-api-template`
 
 ---
 
